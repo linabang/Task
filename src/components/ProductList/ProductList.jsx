@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import s from '../ProductList/ProductList.module.css'
+import s from '../ProductList/ProductList.module.module.css'
 
 const ProductList = ({products}) => {
   return (

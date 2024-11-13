@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import s from '../Notification/Notification.css'
+import s from '../Notification/Notification.module.css'
 
 const Notification = ({type}) => {
   let style = {};

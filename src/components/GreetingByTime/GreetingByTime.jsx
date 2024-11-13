@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import s from '../GreetingByTime/GreetingByTime.css'
+import s from '../GreetingByTime/GreetingByTime.module.css'
 
 const GreetingByTime = ({timeOfDay}) => {
   return (

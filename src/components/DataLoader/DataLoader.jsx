@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import s from '../DataLoader/DataLoader.css'
+import s from '../DataLoader/DataLoader.module.css'
 import Gif from './gif/Гонящиеся стрелки.gif'
 
 const DataLoader = ({isLoding,data}) => {
